@@ -98,10 +98,6 @@ packaging==24.0
     # via
     #   altair
     #   streamlit
-pandas==2.2.2
-    # via
-    #   altair
-    #   streamlit
 pgvector==0.2.5
     # via -r cookbook/llms/groq/rag/requirements.in
 phidata==2.3.83
