@@ -87,14 +87,7 @@ markupsafe==2.1.5
     # via jinja2
 mdurl==0.1.2
     # via markdown-it-py
-numpy==1.26.4
-    # via
-    #   altair
-    #   pandas
-    #   pgvector
-    #   pyarrow
-    #   pydeck
-    #   streamlit
+
 ollama==0.1.8
     # via -r cookbook/llms/groq/rag/requirements.in
 openai==1.23.2
