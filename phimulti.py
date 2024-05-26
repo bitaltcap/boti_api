@@ -14,7 +14,7 @@ from pathlib import Path
 
 from phi.tools.tavily import TavilyTools
 
-from assistant2 import get_groq_assistant , get_research_assistant 
+from assistant import get_groq_assistant , get_research_assistant 
 import shutil
 from flask_cors import CORS
 
